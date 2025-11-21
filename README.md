@@ -50,4 +50,4 @@ LICENSEファイルは作ってませんが、要は「自由に使ってね。�
 ---
 
 ## 🔗関連リンク
-整備中
+- [githubリポジトリ](https://github.com/tontonpaa/Embed_JPrailwayBot)
